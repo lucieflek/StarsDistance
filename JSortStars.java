@@ -54,7 +54,7 @@ class Star {
         distance	= d;
     }
 
-    public void print() {
+    public void print() { 
 		System.out.println(name+" : "+distance);
     }
 }
